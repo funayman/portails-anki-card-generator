@@ -1,0 +1,289 @@
+[
+  {
+    "french": "Oui, ça va bien, merci.",
+    "english": "Very well, thank you.",
+    "image": "https://media.maestro.vhlcentral.com/images/0019/00190493.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190408.mp3",
+    "base": "oui-ça-va-bien-merci"
+  },
+  {
+    "french": "Comment allez-vous?",
+    "english": "How are you? (form.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189575.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179028.mp3",
+    "base": "comment-allez-vous"
+  },
+  {
+    "french": "Je vais bien, merci.",
+    "english": "I am doing well, thank you.",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143498.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190401.mp3",
+    "base": "je-vais-bien-merci"
+  },
+  {
+    "french": "Merci!",
+    "english": "Thank you!",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143557.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190406.mp3",
+    "base": "merci"
+  },
+  {
+    "french": "À plus tard, Guillaume!",
+    "english": "See you later, Guillaume!",
+    "image": "https://media.maestro.vhlcentral.com/images/0019/00190483.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190387.mp3",
+    "base": "à-plus-tard-guillaume"
+  },
+  {
+    "french": "À tout à l'heure, Marie!",
+    "english": "See you later, Marie!",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143506.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190388.mp3",
+    "base": "à-tout-à-l-heure-marie"
+  },
+  {
+    "french": "Bonjour, je m'appelle Marc.",
+    "english": "Hello, my name is Marc.",
+    "image": "https://media.maestro.vhlcentral.com/images/0019/00190484.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190390.mp3",
+    "base": "bonjour-je-m-appelle-marc"
+  },
+  {
+    "french": "Et vous, comment vous appelez-vous?",
+    "english": "And you, what is your name?  (form.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0019/00190487.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190396.mp3",
+    "base": "et-vous-comment-vous-appelez-vous"
+  },
+  {
+    "french": "Je m'appelle Annie.",
+    "english": "My name is Annie.",
+    "image": "https://media.maestro.vhlcentral.com/images/0019/00190489.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190398.mp3",
+    "base": "je-m-appelle-annie"
+  },
+  {
+    "french": "Je vous présente Georges Lemaire.",
+    "english": "I would like to introduce Georges Lemaire to you. (form.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143143.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190404.mp3",
+    "base": "je-vous-présente-georges-lemaire"
+  },
+  {
+    "french": "Enchantée.",
+    "english": "Delighted.",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143145.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190394.mp3",
+    "base": "enchantée"
+  },
+  {
+    "french": "Bonjour, Catherine!",
+    "english": "Hello, Catherine!",
+    "image": "https://media.maestro.vhlcentral.com/images/0019/00190655.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190389.mp3",
+    "base": "bonjour-catherine"
+  },
+  {
+    "french": "Salut, Sophie!",
+    "english": "Hi, Sophie!",
+    "image": "https://media.maestro.vhlcentral.com/images/0019/00190494.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190409.mp3",
+    "base": "salut-sophie"
+  },
+  {
+    "french": "Ça va?",
+    "english": "What’s up?; How are things?",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189572.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179027.mp3",
+    "base": "ça-va"
+  },
+  {
+    "french": "Oui, ça va bien, merci.",
+    "english": "Very well, thank you.",
+    "image": "https://media.maestro.vhlcentral.com/images/0019/00190493.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190408.mp3",
+    "base": "oui-ça-va-bien-merci"
+  },
+  {
+    "french": "Et toi, comment vas-tu?",
+    "english": "And you, how are you? (fam.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0019/00190488.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190395.mp3",
+    "base": "et-toi-comment-vas-tu"
+  },
+  {
+    "french": "Pas mal.",
+    "english": "Not badly.",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189584.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179034.mp3",
+    "base": "pas-mal"
+  },
+  {
+    "french": "Bonsoir.",
+    "english": "Good evening.; Hello.",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189571.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190391.mp3",
+    "base": "bonsoir"
+  },
+  {
+    "french": "À bientôt.",
+    "english": "See you soon.",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143534.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179018.mp3",
+    "base": "à-bientôt"
+  },
+  {
+    "french": "À demain.",
+    "english": "See you tomorrow.",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143500.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190386.mp3",
+    "base": "à-demain"
+  },
+  {
+    "french": "Bonne journée!",
+    "english": "Have a good day!",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143532.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179023.mp3",
+    "base": "bonne-journée"
+  },
+  {
+    "french": "Au revoir.",
+    "english": "Good-bye.",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143504.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179022.mp3",
+    "base": "au-revoir"
+  },
+  {
+    "french": "Comme ci, comme ça.",
+    "english": "So-so.",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189574.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179030.mp3",
+    "base": "comme-ci-comme-ça"
+  },
+  {
+    "french": "Je vais mal.",
+    "english": "I am doing well/badly.",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189579.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190402.mp3",
+    "base": "je-vais-mal"
+  },
+  {
+    "french": "Moi aussi.",
+    "english": "Me too.",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189582.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190407.mp3",
+    "base": "moi-aussi"
+  },
+  {
+    "french": "Comment t’appelles-tu?",
+    "english": "What is your name? (fam.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189576.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190392.mp3",
+    "base": "comment-t-appelles-tu"
+  },
+  {
+    "french": "Je te présente Paul.",
+    "english": "I would like to introduce Paul to you. (fam.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143538.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190400.mp3",
+    "base": "je-te-présente-paul"
+  },
+  {
+    "french": "De rien.",
+    "english": "You’re welcome.",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143553.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190393.mp3",
+    "base": "de-rien"
+  },
+  {
+    "french": "Excusez-moi.",
+    "english": "Excuse me. (form.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189577.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179037.mp3",
+    "base": "excusez-moi"
+  },
+  {
+    "french": "Merci beaucoup.",
+    "english": "Thank you very much.",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143559.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179042.mp3",
+    "base": "merci-beaucoup"
+  },
+  {
+    "french": "Pardon.",
+    "english": "Pardon (me).",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189583.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179046.mp3",
+    "base": "pardon"
+  },
+  {
+    "french": "S’il vous plaît.",
+    "english": "Please. (form.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189585.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179047.mp3",
+    "base": "s-il-vous-plaît"
+  },
+  {
+    "french": "S’il te plaît.",
+    "english": "Please. (fam.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143549.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179048.mp3",
+    "base": "s-il-te-plaît"
+  },
+  {
+    "french": "Je vous en prie.",
+    "english": "You're welcome. (form.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0019/00190491.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190403.mp3",
+    "base": "je-vous-en-prie"
+  },
+  {
+    "french": "Je t'en prie.",
+    "english": "You’re welcome. (fam.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143553.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0019/00190399.mp3",
+    "base": "je-t-en-prie"
+  },
+  {
+    "french": "Monsieur (M.)",
+    "english": "Sir (Mr.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143561.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179043.mp3",
+    "base": "monsieur-m"
+  },
+  {
+    "french": "Madame (Mme)",
+    "english": "Ma’am (Mrs.)",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143563.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179044.mp3",
+    "base": "madame-mme"
+  },
+  {
+    "french": "Mademoiselle (Mlle)",
+    "english": "Miss",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143565.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179045.mp3",
+    "base": "mademoiselle-mlle"
+  },
+  {
+    "french": "ici",
+    "english": "here",
+    "image": "https://media.maestro.vhlcentral.com/images/0018/00189578.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179011.mp3",
+    "base": "ici"
+  },
+  {
+    "french": "là",
+    "english": "there",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143950.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179013.mp3",
+    "base": "là"
+  },
+  {
+    "french": "là-bas",
+    "english": "over there",
+    "image": "https://media.maestro.vhlcentral.com/images/0014/00143948.jpg",
+    "audio": "https://media.maestro.vhlcentral.com/audio/0017/00179014.mp3",
+    "base": "là-bas"
+  }
+]
