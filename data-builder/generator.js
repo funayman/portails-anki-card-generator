@@ -22,6 +22,6 @@ for(i=0; i<entries.length; i++) {
   arr.push(e)
 }
 
-// copy JSON to clipboard
-
 // print to console
+console.log(JSON.stringify(arr))
+console.log("copy object")
